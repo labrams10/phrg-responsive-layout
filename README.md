@@ -100,6 +100,4 @@ In the code above on line 2 we are setting the default size of our column elemen
 - [Desktop Down Responsive Layout - Code Example](http://jsfiddle.net/flatiron_school/jERBH/4/)
 - [Mobile First Responsive Layout - Code Example](http://jsfiddle.net/flatiron_school/jERBH/5/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/responsive-layout' title='Responsive Layout'>Responsive Layout</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/responsive-layout'>Responsive Layout</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Responsive Layout</p>
